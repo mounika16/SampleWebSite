@@ -1,0 +1,20 @@
+@CHARSET "ISO-8859-1";
+
+.field{
+        border-radius:10px;
+        border-color: red;
+        background-color:yellow;
+        color:red;
+    }
+    input{
+        border-radius:10px;
+        border-color: red;
+        background-color:yellow;
+        color:red;
+    }
+    input:hover{
+        border-radius:10px;
+        border-color: red;
+        background-color:red;
+        color:yellow;
+    }
